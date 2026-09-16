@@ -1,7 +1,10 @@
 # 💫 About Me:
 🙂  Hi My name is Arm
+
 💻  I'm currently study 1st year of Computer Engineering at KMITL
+
 🌍  I'm based in Bangkok, Thailand
+
 ✉️  You can contact me at armmykung51@gmail.com
 
 
@@ -16,6 +19,7 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=armmyuwu&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=armmyuwu&icon=0&color=10)](https://visitcount.itsvg.in)
+<a href="https://www.github.com/armmyuwu" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/armmyuwu?logo=github&style=for-the-badge&color=ec4899&labelColor=22272e" /></a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
